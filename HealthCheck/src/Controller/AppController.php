@@ -1,0 +1,9 @@
+<?php
+
+namespace HealthCheck\Controller;
+
+use App\Controller\AppController as BaseController;
+
+class AppController extends BaseController
+{
+}
